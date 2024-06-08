@@ -16,4 +16,5 @@ export class NavigationComponent {
     this.router.navigate(['/aprofile']);
 
   }
+
 }
